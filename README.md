@@ -6,7 +6,7 @@ This is a tribute page for one of the greatest cricketers of all time, Mahendra 
 
 Mahendra Singh Dhoni, also known as MS Dhoni, is a former Indian cricketer and captain of the Indian national cricket team. He is considered one of the greatest cricketing captains of all time and is known for his calm demeanor and exceptional leadership skills.
 
-Dhoni made his debut for the Indian cricket team in December 2004 and quickly established himself as a talented wicket-keeper batsman. He went on to become the captain of the Indian team in 2007 and led them to numerous victories, including the 2007 ICC World Twenty20, the 2010 and 2016 Asia Cups, and the 2011 ICC Cricket World Cup.
+Dhoni made his debut for the Indian cricket team in December 2004 and quickly established himself as a talented wicket-keeper batsman. He went on to become the captain of the Indian team in 2007 and led them to numerous victories, including the 2007 ICC World Twenty20, the 2010 and 2016 Asia Cups, the 2013 ICC Champions Trophy, and the 2011 ICC Cricket World Cup.
 
 ## The Tribute Page
 
